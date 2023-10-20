@@ -7,7 +7,7 @@ A C-based Rock-Paper-Scissors game for testing decision-making skills and provid
 1. **Compile the Code**
    - Use a C compiler (e.g., GCC) to compile the code. For example, using GCC:
      ```
-     gcc atm_project.c -o atm_project
+     gcc RockPaperScissors.c -o RockPaperScissors
      ```
 2. **Run the Program**
    - Execute the compiled program:
